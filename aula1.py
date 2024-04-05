@@ -2,7 +2,7 @@ import os
 
 os.system("clear")
 
-nome = input("qual seu nome: ")
+nome = str(input("qual seu nome: "))
 idade = input("qual sua idade: ")
 peso = input("qual seu pesso: ")
 
